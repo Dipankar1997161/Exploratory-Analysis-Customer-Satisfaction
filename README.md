@@ -44,3 +44,32 @@ Productive customer service representatives create happy and satisfied customers
 
 ## Results:
 ### EDA
+
+![satis1](https://user-images.githubusercontent.com/85514219/229328362-67cda89e-a657-4652-aba9-916930fc765c.png)
+
+#### Numerical Attributes
+![satis2](https://user-images.githubusercontent.com/85514219/229328361-5d2f5b07-b7c6-44ac-bef7-b6b67e1a31a0.png)
+
+
+#### Categorical Attributes
+![satis3](https://user-images.githubusercontent.com/85514219/229328359-be75f9d0-3350-489b-a847-a16aee9372dd.png)
+
+
+![satis4](https://user-images.githubusercontent.com/85514219/229328358-d643185a-86cf-434b-a6ff-bf0631656c75.png)
+
+
+### Model Results
+
+![models](https://user-images.githubusercontent.com/85514219/229328425-be10a544-3084-4d61-a21c-11fd1f5b80ca.png)
+
+![models acc](https://user-images.githubusercontent.com/85514219/229328424-a3964e33-6bfd-4d14-af65-b178f701825e.png)
+
+
+### GridSearch on KNN
+
+![KNN after grid](https://user-images.githubusercontent.com/85514219/229328448-1b572b22-3df6-47cc-9e96-0ded035947f1.png)
+
+## Final Verdict:
+
+Customer Satisfaction is a core part of Business growth. Therefore, careful Analysis and accurate model development needs to be taken care. 
+In this project, ** RANDOM FOREST ** algorithm performed the best and using ** GridSearch ** on K-Nearest-neighbour model, The model showed better improvement. 
