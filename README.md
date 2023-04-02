@@ -71,5 +71,6 @@ Productive customer service representatives create happy and satisfied customers
 
 ## Final Verdict:
 
-Customer Satisfaction is a core part of Business growth. Therefore, careful Analysis and accurate model development needs to be taken care. 
-In this project, ** RANDOM FOREST ** algorithm performed the best and using ** GridSearch ** on K-Nearest-neighbour model, The model showed better improvement. 
+Customer Satisfaction is a core part of Business growth. Therefore, careful Analysis and accurate model development needs to be taken care.
+
+In this project, **RANDOM FOREST** algorithm performed the best and using **GridSearch** on K-Nearest-neighbour model, The model showed better improvement. 
