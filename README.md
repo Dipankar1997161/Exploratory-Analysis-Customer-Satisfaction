@@ -42,6 +42,8 @@ Productive customer service representatives create happy and satisfied customers
 - Trained on 6 models using pipeline and provided a comparison
 - Used GridSearch to improve the low accuracy model
 
+###  Everything is provided in the python notebook. Try it out
+
 ## Results:
 ### EDA
 
